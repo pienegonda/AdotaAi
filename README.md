@@ -1,1 +1,1 @@
-# Api.AdotaAi
+# AdotaAi
