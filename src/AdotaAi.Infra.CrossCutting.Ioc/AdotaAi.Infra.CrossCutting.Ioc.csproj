@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdotaAi.Infra.CrossCutting\AdotaAi.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\AdotaAi.Domain\AdotaAi.Domain.csproj" />
+    <ProjectReference Include="..\AdotaAi.Infra.Data\AdotaAi.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
